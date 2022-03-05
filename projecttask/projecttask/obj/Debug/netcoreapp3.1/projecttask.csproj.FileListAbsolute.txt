@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\bin\Debug\netcoreapp3.1\projecttask.exe
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\bin\Debug\netcoreapp3.1\projecttask.deps.json
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\bin\Debug\netcoreapp3.1\projecttask.runtimeconfig.json
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\bin\Debug\netcoreapp3.1\projecttask.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\bin\Debug\netcoreapp3.1\projecttask.dll
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\bin\Debug\netcoreapp3.1\projecttask.pdb
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\obj\Debug\netcoreapp3.1\projecttask.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\obj\Debug\netcoreapp3.1\projecttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\obj\Debug\netcoreapp3.1\projecttask.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\obj\Debug\netcoreapp3.1\projecttask.AssemblyInfo.cs
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\obj\Debug\netcoreapp3.1\projecttask.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\obj\Debug\netcoreapp3.1\projecttask.dll
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\obj\Debug\netcoreapp3.1\projecttask.pdb
+C:\Users\nargi\Desktop\programmingg\projecttask\projecttask\obj\Debug\netcoreapp3.1\projecttask.genruntimeconfig.cache
